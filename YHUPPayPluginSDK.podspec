@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YHUPPayPluginSDK"
-  s.version      = "0.1.0"
+  s.version      = "0.1.3"
   s.summary      = "银联-手机控件"
 
   s.description  = "手机控件支付开发包(iOS版) 3.3.11"
