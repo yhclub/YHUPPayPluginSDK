@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YHUPPayPluginSDK"
-  s.version      = "0.1.3"
+  s.version      = "0.1.4"
   s.summary      = "银联-手机控件"
 
   s.description  = "手机控件支付开发包(iOS版) 3.3.11"
@@ -20,9 +20,9 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.frameworks       = 'SystemConfiguration', 'CoreTelephony','CFNetwork'
+  s.frameworks       = 'SystemConfiguration', 'CoreMotion','CFNetwork', 'CoreTelephony', 'QuartzCore', 'CoreText', 'CoreGraphics', 'UIKit', 'Foundation'
 
-  s.libraries        = 'z'
+  s.libraries        = 'z', 'c++', 'sqlite3'
 
   s.vendored_libraries = "Classes/*.a"
   
