@@ -3,7 +3,8 @@
 //  UPPayPluginEx
 //
 //  Created by wxzhao on 12-10-10.
-//  Copyright (c) 2012年 China UnionPay. All rights reserved.
+//  Created by szwang on 16-03-30.
+//  Copyright (c) 2016年 China UnionPay. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
