@@ -98,3 +98,5 @@ libPaymentControl.a
 ### 常见问题
 请参见https://open.unionpay.com帮助中心-FAQ
 
+#### 官方SDK&Demo
+https://open.unionpay.com/tjweb/acproduct/list?apiSvcId=450&index=5
